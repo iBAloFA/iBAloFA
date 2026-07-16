@@ -7,7 +7,7 @@ Where architectural backend integrity meets fluid, high-fidelity user experience
 
 ---
 
-- 🚀 **Active Lab Repository:** Check out my production workspace at [seyi-creative-portfolio](https://github.com.iBAloFA/seyi-creative-portfolio/) to view my live Next.js, Three.js, and GLSL shader modules.
+- 🚀 **Active Lab Repository:** Check out my production workspace at [seyi-creative-portfolio](https://github.com/iBAloFA/seyi-creative-portfolio/) to view my live Next.js, Three.js, and GLSL shader modules.
 - 🔭 **I’m currently working on** ... High-performance real-time 3D topology modules and asynchronous data interfaces built using Next.js 15, TypeScript, and Three.js.
 - 🌱 **I’m currently learning** ... Advanced GLSL fragment shaders, physics engine optimizations (Rapier), and hardware-accelerated fluid simulations.
 - 👯 **I’m looking to collaborate on** ... Production-grade web experiences where frontend engineering is treated as a creative design craft, not plumbing.
